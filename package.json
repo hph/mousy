@@ -1,0 +1,13 @@
+{
+  "name": "mousy",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Haukur Páll Hallvarðsson <hph@hph.is>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.0",
+    "gulp-uglify": "^1.2.0"
+  }
+}
